@@ -1,0 +1,15 @@
+#welcome {
+    border: 1px solid;
+    margin: 50px;
+    padding: 50px;
+    color: #ffffff;
+}
+#welcome h1 {
+  text-align: center;
+    background-image:url("https://images.squarespace-cdn.com/content/v1/5bb3df76fb22a56aad394df0/1539115682716-XSQOHW05L0WACMNXLQSK/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFUQAah1E2d0qOFNma4CJuw0VgyloEfPuSsyFRoaaKT76QvevUbj177dmcMs1F0H-0/ChooseYourOwnGameNight_withbg.png");
+    height:500px;
+
+}
+.Study { 
+    display:none;
+}
